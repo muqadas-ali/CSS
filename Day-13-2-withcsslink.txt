@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head>
+<link rel="stylesheet" href="muqadas.css">
+<title>Work in css
+</title>
+</head>
+<body>
+<p class="p">Tariq</p>
+<p class="p1">Muqadas</p>
+<p class="p2">From</p>
+<p class="p3">Peshawar</p>
+
+
+
+
+
+
+
+</body>
+</html>
